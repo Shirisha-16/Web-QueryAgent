@@ -90,10 +90,10 @@ cd Web-QueryAgent
 
 Create a .env file in the root of the project and add your API keys.
 
-# Get a Gemini API key from [https://ai.google.dev/](https://ai.google.dev/)
+## Get a Gemini API key from [https://ai.google.dev/](https://ai.google.dev/)
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 
-# Get a Groq API key from [https://console.groq.com/keys](https://console.groq.com/keys)
+## Get a Groq API key from [https://console.groq.com/keys](https://console.groq.com/keys)
 GROQ_API_KEY=YOUR_GROQ_API_KEY_HERE
 
 **Install backend dependencies:**
